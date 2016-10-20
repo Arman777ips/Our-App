@@ -1,0 +1,3 @@
+https://developers.google.com/places/documentation/
+https://developers.google.com/maps/articles/phpsqlsearch_v3
+https://enterprise.google.com/intl/en_sg/maps/products/mapsapi.html
